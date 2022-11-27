@@ -1,0 +1,253 @@
+*{
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+    padding: 0px;
+    
+}
+
+header{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content:space-between;
+}
+
+.head1{ 
+    margin-left: 120px;
+    padding-bottom: 19px;
+    padding-top: 19px;
+}
+
+ 
+
+
+.head1 h2{
+       font-weight: 300;
+}
+.head2 ul{
+    display: flex;
+    align-items: center;
+}
+
+.head1 ul{
+  display: flex;
+    list-style: none;
+   margin-left: 30px;
+   margin-top: 8px;
+   position: absolute;
+   top: 13px;   
+}
+
+.head1 li{
+    padding-left: 40px;
+    padding-top: 5px;
+    margin-bottom: 5px;  
+    font-size: 15px;
+    font-weight: 300px;
+}
+ 
+.head2 ul{
+    display: flex;
+    list-style: none;
+    margin-right: 130px;
+}
+
+.head2{
+    padding-bottom: 19px;
+    padding-top: 19px;
+    
+}
+
+.head2 li{
+    padding-left: 40px;
+    padding-top: 5px;
+    margin-bottom: 5px;  
+    font-size: 15px;
+    font-weight: 500px;
+    font-weight: 300px;
+}
+.head2 a{
+    text-decoration: none;
+    color: black;
+    border-radius: 15px;
+    background-color:white;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.main h1{
+    
+    font-size: 44px;
+}
+.main1 {
+    margin-top: 50px;
+    margin-left: 60px;
+}
+
+.main1 p{
+    letter-spacing: 1px;
+    font-weight: 300px;
+    font-size: 16px;    
+}
+.main1 button{
+    background-color: black;
+    color: aliceblue;
+    font-size: 17px;
+    padding: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 15px;
+}
+
+.con{
+    padding-top: 200px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.work{
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+ .ok{
+    margin-left: 150px;
+    margin-top: 100px;
+ }
+ .ok p{
+     font-size: 20px;
+ }
+ .school{
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 150px;
+ }
+
+ .dance{
+     margin-left: 150px;
+     margin-top: 100px;
+ }
+
+ hr{
+    width: 120px;
+ }
+
+ .walk{
+    margin-left: 150px;
+ }
+
+ .walk hr{
+    width: 300px;
+    height: 1px;
+    color: black;
+ }
+
+ .pos{
+    position: absolute;
+    left: 230px;
+    top: 3800px;
+    color: white;
+    font-size: 20px;
+ }
+
+.pos button{
+    padding: 15px;
+    border-radius: 15px;
+    font-size: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.sub{
+    margin-left: 150px;
+    margin-top: 40px;
+    font-size: 15px;
+    width: 1400px;
+    font-weight: 300;
+}
+footer{
+
+    background-color: black;
+    color: aliceblue;
+    list-style: none;
+}
+    
+.footer1{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+    margin-top: 100px;
+}
+.footerli{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+}
+.last{
+    display: flex;
+    justify-content: space-around;
+}
+.logo{
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer2 li{
+    font-weight: 300;
+    margin-right: 450px;
+    margin-left: 0px;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+
+ .logo1 img{
+    margin-top: 120px;
+    padding-left: 100px;
+ }
+ .logo1{
+    margin-right: 890px;
+ }
+ .logo2{
+    margin-top: 120px;
+    display: flex;
+    position: absolute;
+    right: 400px;
+     
+ }
+ .logo2 li{
+    padding-left: 40px;
+}
+
+.goo{
+    margin-top: 60px;
+    margin-left: 500px;
+}
+
+.last{
+    margin-top: 100px;
+    font-weight: 300;
+    padding-bottom: 300px;
+}
+.last1{
+    margin-right: 750px;
+    font-size: 13px;
+}
+.last2 {
+    display: flex;
+}
+.last2 li{
+    padding-left: 15px;
+    font-size: 13px;
+}
